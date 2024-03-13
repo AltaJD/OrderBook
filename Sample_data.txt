@@ -1,0 +1,14 @@
+STL NO Equity,4916,158.1,155.0,156.0,6951,55896,114,1,0,20150420,28800.0,156.0,152001,XT|O,@1
+PGS NO Equity,6150,0.0,0.0,43.0,65,1827,870,8,0,20150422,28800.0,42.08,11228,,@1
+
+Could you please complete a report and send us the findings to include the following data on a stock by stock basis (the individual unique stock codes are given in the first column):
+
+Mean time between trades +
+Median time between trades +
+Mean time between tick changes +
+Median time between tick changes +
+Longest time between trades +
+Longest time between tick changes +
+Mean bid ask spread +
+Median bid ask spread +
+Examples of the round number effect - (both in traded values and traded volumes - i.e. is there an increased probability of the last digit on prices being a 0 compared to other last digits)
